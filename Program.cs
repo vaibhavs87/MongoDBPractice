@@ -6,6 +6,11 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace MongoDBPractice
 {
+    // Class for model
+    //Comments
+    //Comments
+    //Comments
+    //Comments
     [BsonIgnoreExtraElements]
     class Shipwrecks
     {
