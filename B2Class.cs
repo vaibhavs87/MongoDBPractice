@@ -7,5 +7,6 @@ namespace MongoDBPractice
     class B2Class
     {
         int a;
+        int x;
     }
 }
