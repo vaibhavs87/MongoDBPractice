@@ -7,5 +7,6 @@ namespace MongoDBPractice
     class Test
     {
         int a;
+        int b;
     }
 }
