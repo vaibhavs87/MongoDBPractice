@@ -8,5 +8,6 @@ namespace MongoDBPractice
     {
         int a;
         int x;
+        int y;
     }
 }
