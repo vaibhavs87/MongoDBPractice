@@ -68,7 +68,7 @@ namespace MongoDBPractice
         , new MyClass { ID = 77, Year = 2013, X = "Important" }
         };
 
-            var merged = real.Union(fake, new MyClassEqualityComparer());
+            var merged = real.Union(fake, new MyClassEqualityComparer()); // Added
         }
 
         public static void LoadData()
