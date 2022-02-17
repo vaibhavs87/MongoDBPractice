@@ -8,8 +8,6 @@ using System.Linq;
 
 namespace MongoDBPractice
 {
-
-    //GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
     public class MyClass
     {
         public int ID { get; set; }
